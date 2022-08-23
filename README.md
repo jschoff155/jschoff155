@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Jake
-- 👀 I’m interested in coding, learning to build programs, and make life easier by extension
-- 🌱 I’m currently learning everything. C(# & ++), python, and Java are my key languages currently
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub. I've been dabbling in software development for the last few years but have only began seriously pursuing it since early 2022. Over this period I've made myself skilled with languages such as Python, Java, and R. I've become familiar with Agile, Tableau, as well as Git and GitHub. 
 
-<!---
-jschoff155/jschoff155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm constantly improving on my abilities and am an aspiring software developer with a few programs under my belt already. I welcome the coming changes moving forward and aspire to become a Scrum Master in the next 5 years. 
